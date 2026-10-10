@@ -63,7 +63,7 @@ Voici les étapes à effectuer qui ne devraient pas vous prendre plus de 15 minu
 
 ![captures/12-modif-squelette-python.png](captures/12-modif-squelette-python.png)
 
-17. Enregistrer votre travail dans votre dépôt github. 
+17. Enregistrer votre travail dans votre dépôt github à l'aide des commandes `git add`, `git commit` et `git push`. 
 
 ![captures/captures/13-commit-push.png](captures/13-commit-push.png)
 
