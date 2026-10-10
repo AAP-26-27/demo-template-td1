@@ -69,7 +69,7 @@ Voici les étapes à effectuer qui ne devraient pas vous prendre plus de 15 minu
 
 18. Fermer Codespaces. Pour cela :
     - Ouvrir la palette de commandes avec Ctrl + Shift + P (Cmd + Shift + P sur Mac).
-    - Rechercher **"Codespaces: Stop Current Codespace"*.
+    - Rechercher **"Codespaces: Stop Current Codespace"**.
     - Valider l'arrêt.
 
 ![captures/14-stop-codespace.png](captures/14-stop-codespace.png)
